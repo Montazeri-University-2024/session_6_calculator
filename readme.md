@@ -8,6 +8,14 @@
 
 A fun, interactive console-based game where the user tries to guess a randomly generated number within a specified range. The game limits players to 5 attempts, adding a challenging twist!
 
+## Steps:
+
+1- Create a git repository
+
+2- Add your empty project into git
+
+3- Create the app and push it 
+
 ## Features
 
 - Randomly generated number within a set range (e.g., 1 to 100)
